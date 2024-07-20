@@ -38,7 +38,7 @@ function Onlinedelivery() {
       <div className='font-bold text-[25px]'>Restaurants with online food delivery in Delhi</div>
     </div>
 
-       <div className={isAtTop? 'fixed top-0 z-[9999999] bg-white w-full left-0':''}>
+       <div className={isAtTop? 'fixed top-0 z-[999999] bg-white w-full left-0':''}>
            <div className="max-w-[1200px] mx-auto flex my-4 gap-3 border-[1px]">
              <div className="p-3 rounded-md shadow">Filter</div>
              <div className="p-3 rounded-md shadow">Sort By</div>
